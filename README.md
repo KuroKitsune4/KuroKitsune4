@@ -1,8 +1,10 @@
-## Hi there 各位好呀👋
+## 各位好呀 Hi there👋
 
-I want to lean coding!🔥
+各位加油吧 我就算了
 
-我想学代码!🔥
+正所谓：【知识如海洋，而我是一条淡水鱼。】
+
+"Knowledge is an ocean, but I’m a freshwater fish."
 
 <!--
 **KuroKitsune4/KuroKitsune4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
