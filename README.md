@@ -1,7 +1,6 @@
 ## Hi there 各位好呀👋
-Good morning everybody/
-各位早上好
-
+Good morning everybody/各位早上好
+I am a minecraft fan 我喜欢我的世界 谢谢
 <!--
 **KuroKitsune4/KuroKitsune4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
