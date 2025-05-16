@@ -1,8 +1,9 @@
 ## Hi there 各位好呀👋
 
-I want to lean coding!
+I want to lean coding!🔥
 
-我想学习代码~
+我想学代码!🔥
+
 <!--
 **KuroKitsune4/KuroKitsune4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
