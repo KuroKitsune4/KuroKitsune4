@@ -1,8 +1,6 @@
 ## 各位好呀 Hi there👋
 
-各位加油吧 我就算了
-
-正所谓：【知识如海洋，而我是一条淡水鱼。】
+【知识如海洋，而我是一条淡水鱼。】
 
 "Knowledge is an ocean, but I’m a freshwater fish."
 
